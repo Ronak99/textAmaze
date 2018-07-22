@@ -99,7 +99,7 @@ function textAmaze(){
 		
 	function valueModifier(){
 		
-		 childTag = "span";
+		 childTag = "div";
 		
 		//trimed values which the element has
 		elementValue = elementTag.text().trim();
